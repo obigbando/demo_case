@@ -1,3 +1,3 @@
 In this repo, ref.fa is a toy reference genome with the concatenation of 
-chrY and chrM from HG19; in.fq.gz is an 100M subset of the public fastq 
-dataset NA12878.
+chrY and chrM from HG19; in.fq.gz is a subset of 10K reads of the public 
+fastq dataset NA12878.
